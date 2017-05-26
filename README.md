@@ -1,7 +1,9 @@
-# Task0spider
+# Task0spider  
 This is a repo containing file for task0 for spider algo  
-#Some cool facts about GOkUl  
-##Lets get started  
+##Some cool facts about GOkUl
+
+###Lets get started
+
 1.Hobbies  
     - Play PC games  
     - Code and eat  
@@ -19,5 +21,6 @@ This is a repo containing file for task0 for spider algo
 5.Tasks left for him  
     - [x] create git and create a repo  
     - [x] do task a of task 0 of righting in md  
-    - [ ] complete the task 0  
-##thanks for reading  
+    - [ ] complete the task 0
+
+###thanks for reading
