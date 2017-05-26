@@ -23,9 +23,9 @@ This is a repo containing file for task0 for spider algo
     - [x] do task a of task 0 of writing in md  
     - [ ] complete the task 0  
 6. Favourite basketball players  
-   | Teams       | Players      |  
-   | ---         | ---          |  
-   | Cavaliers   | lebron james |  
-   | Golden state| stephen curry|  
+    | Teams        | Players       |  
+    | ---          | ---           |  
+    | Cavaliers    | lebron james  |  
+    | Golden state | stephen curry |  
 
 ### thanks for reading
