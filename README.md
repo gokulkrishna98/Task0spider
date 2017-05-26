@@ -21,11 +21,6 @@ This is a repo containing file for task0 for spider algo
 5. Tasks left for him  
     - [x] create git and create a repo  
     - [x] do task a of task 0 of writing in md  
-    - [ ] complete the task 0  
-6. Favourite basketball players  
-    | Teams        | Players       |  
-    | ---          | ---           |  
-    | Cavaliers    | lebron james  |  
-    | Golden state | stephen curry |  
+    - [ ] complete the task 0   
 
 ### thanks for reading
