@@ -15,12 +15,17 @@ This is a repo containing file for task0 for spider algo
 3. Describe myself as emoji  
     :computer: :video_game: :basketball: :see_no_evil: :hear_no_evil: :speak_no_evil: :metal:  
 4. Websites he frequently visits  
-    1.[google](https://www.google.co.in/?gfe_rd=cr&ei=PCMoWbC6J4by8Af6o5jgBA)  
-    2.[YouTube](https://www.youtube.com/?gl=IN)  
-    3.[9Gags](https://9gag.com/)  
+    1. [google](https://www.google.co.in/?gfe_rd=cr&ei=PCMoWbC6J4by8Af6o5jgBA)  
+    2. [YouTube](https://www.youtube.com/?gl=IN)  
+    3. [9Gags](https://9gag.com/)  
 5. Tasks left for him  
     - [x] create git and create a repo  
-    - [x] do task a of task 0 of righting in md  
-    - [ ] complete the task 0
+    - [x] do task a of task 0 of writing in md  
+    - [ ] complete the task 0  
+6. Favourite basketball players  
+   | Teams       | Players      |  
+   | ---         | ---          |  
+   | Cavaliers   | lebron james |  
+   | Golden state| stephen curry|  
 
 ### thanks for reading
